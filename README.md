@@ -1,2 +1,2 @@
 # Code-Blocks
-# Any works that are using Code::Blocks are placed in this repository.
+# Any works that are using Code::Blocks are placed on this repository.

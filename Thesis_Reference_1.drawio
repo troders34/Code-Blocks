@@ -1,9 +1,98 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="FxpgJtXLfpHcVSMzrXae">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yh3nxU_gNZW9qAwghryM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yh3nxU_gNZW9qAwghryM-1" target="yh3nxU_gNZW9qAwghryM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-6" value="makes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yh3nxU_gNZW9qAwghryM-3">
+          <mxGeometry x="-0.0667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-1" value="proposed system" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yh3nxU_gNZW9qAwghryM-2" target="yh3nxU_gNZW9qAwghryM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-7" value="improves" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yh3nxU_gNZW9qAwghryM-5">
+          <mxGeometry x="0.1" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-2" value="C-RAN programmable" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-4" value="procedure of x2-based handover request" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yh3nxU_gNZW9qAwghryM-8" target="yh3nxU_gNZW9qAwghryM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-14" value="enhances" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yh3nxU_gNZW9qAwghryM-10">
+          <mxGeometry x="-0.3" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-8" value="proposed architecture" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yh3nxU_gNZW9qAwghryM-9" target="yh3nxU_gNZW9qAwghryM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-13" value="provides via GNV" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yh3nxU_gNZW9qAwghryM-12">
+          <mxGeometry x="-0.2333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-9" value="control functionality of GC at CN" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-11" value="network enhancement across clusters" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yh3nxU_gNZW9qAwghryM-15" target="yh3nxU_gNZW9qAwghryM-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-22" value="enhances" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yh3nxU_gNZW9qAwghryM-20">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-15" value="proposed architecture" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yh3nxU_gNZW9qAwghryM-16" target="yh3nxU_gNZW9qAwghryM-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-19" value="provides via LDB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yh3nxU_gNZW9qAwghryM-18">
+          <mxGeometry y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-16" value="control functionality of DCC in edge cloud" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-17" value="network enhancement across cluster of small cells" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yh3nxU_gNZW9qAwghryM-24" target="yh3nxU_gNZW9qAwghryM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-28" value="simplifies" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yh3nxU_gNZW9qAwghryM-26">
+          <mxGeometry x="-0.1333" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-24" value="NO stack architecture" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yh3nxU_gNZW9qAwghryM-25" value="handover signaling flow" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

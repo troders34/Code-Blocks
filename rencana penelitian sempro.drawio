@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="XPW2TqdGqiMK9_xD--WZ">
-    <mxGraphModel dx="795" dy="504" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="605" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="asYTJcBOyXFiSECaXu4E-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="asYTJcBOyXFiSECaXu4E-1" target="asYTJcBOyXFiSECaXu4E-6">
+        <mxCell id="asYTJcBOyXFiSECaXu4E-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="asYTJcBOyXFiSECaXu4E-1" target="asYTJcBOyXFiSECaXu4E-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="750" y="130" />
@@ -12,28 +12,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="asYTJcBOyXFiSECaXu4E-1" value="Simulasi&lt;div&gt;NS-3 / OMNET++ &amp;amp;&lt;/div&gt;&lt;div&gt;Octave&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="asYTJcBOyXFiSECaXu4E-1" value="Simulasi&lt;div&gt;NS-3 &amp;amp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Octave&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="520" y="80" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="asYTJcBOyXFiSECaXu4E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="asYTJcBOyXFiSECaXu4E-2" target="asYTJcBOyXFiSECaXu4E-1">
+        <mxCell id="asYTJcBOyXFiSECaXu4E-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="asYTJcBOyXFiSECaXu4E-2" target="asYTJcBOyXFiSECaXu4E-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="asYTJcBOyXFiSECaXu4E-2" value="Deep Reinforcement Learning AQM" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="asYTJcBOyXFiSECaXu4E-2" value="Deep Reinforcement Learning AQM" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="280" y="80" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="asYTJcBOyXFiSECaXu4E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="asYTJcBOyXFiSECaXu4E-4" target="asYTJcBOyXFiSECaXu4E-2">
+        <mxCell id="asYTJcBOyXFiSECaXu4E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="asYTJcBOyXFiSECaXu4E-4" target="asYTJcBOyXFiSECaXu4E-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="asYTJcBOyXFiSECaXu4E-4" value="Pengujian&lt;div&gt;pra-improvisasi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="asYTJcBOyXFiSECaXu4E-4" value="Pengujian&lt;div&gt;pra-improvisasi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="asYTJcBOyXFiSECaXu4E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="asYTJcBOyXFiSECaXu4E-6" target="asYTJcBOyXFiSECaXu4E-8">
+        <mxCell id="asYTJcBOyXFiSECaXu4E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="asYTJcBOyXFiSECaXu4E-6" target="asYTJcBOyXFiSECaXu4E-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="asYTJcBOyXFiSECaXu4E-6" value="Pengujian&lt;div&gt;pasca-improvisasi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="asYTJcBOyXFiSECaXu4E-6" value="Pengujian&lt;div&gt;pasca-improvisasi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="520" y="220" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="asYTJcBOyXFiSECaXu4E-8" value="Analisis dan Simpulan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="asYTJcBOyXFiSECaXu4E-8" value="Analisis dan Simpulan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="280" y="220" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
